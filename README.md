@@ -1,6 +1,7 @@
 # GooFy-React
 ## A website that make sure you find all your favourite gifs.🍕
 # Screenshots.
+<img src="src/screenshot.png" >
 
 ## Instructions
 1) Clone this repo to your local machine.
