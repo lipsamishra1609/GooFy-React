@@ -45,7 +45,7 @@ const Giphy = () => {
               try{
                 const results = await axios("https://api.giphy.com/v1/gifs/search", {
                     params: {
-                        api_key: GIPHY_KEY,
+                        api_key: "at7pjZK1AqNvg9BkZkkNtYK4mo5u4X3c",
                         q: search
                     }
                 });
